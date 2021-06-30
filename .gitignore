@@ -1,0 +1,9 @@
+/.vscode/*
+/bin/Debug/net5.0/*
+/*/.vscode/*
+/*/bin/Debug/net5.0/*
+/*/obj/*
+/obj/Debug/net5.0/*
+/*/*.csproj
+/obj/*
+*/*.csproj
